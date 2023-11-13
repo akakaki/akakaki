@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=akakaki&layout=compact) -->
-
-![img](https://github-readme-stats.vercel.app/api/wakatime?username=akakaki)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akakaki&layout=compact)
